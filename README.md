@@ -1,18 +1,18 @@
 # RL_2025_HOMEWORK_3
 
-Available Packages in this Repository
-- PX4-Autopilot
-- force_land
-- offboard_rl
-- px4_msgs
-- read_rpy
-  
-Getting Started:
-git clone https://github.com/Ald0oo/RL_2025_HOMEWORK_3
-colcon build 
+## Available Packages in this Repository
+* `PX4-Autopilot`
+* `force_land`
+* `offboard_rl`
+* `px4_msgs`
+* `read_rpy`
+
+## Getting Started
+git clone [https://github.com/Ald0oo/RL_2025_HOMEWORK_3](https://github.com/Ald0oo/RL_2025_HOMEWORK_3)
+colcon build
 source install/setup.bash
 
-Usage
+## Usage
 1. Custom drone
 To start the custom drone run:
 
