@@ -8,7 +8,12 @@
 * `read_rpy`
 
 ## Getting Started
-```git clone https://github.com/Ald0oo/RL_2025_HOMEWORK_3 colcon build source install/setup.bash```
+```bash
+git clone https://github.com/Ald0oo/RL_2025_HOMEWORK_3 
+colcon build source
+install/setup.bash
+```
+
 
 ## Usage
 ## 1. Custom drone
