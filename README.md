@@ -1,14 +1,13 @@
 # RL_2025_HOMEWORK_3
-Fly your drone
 
 Available Packages in this Repository
-PX4-Autopilot
-force_land
-offboard_rl
+- PX4-Autopilot
+- force_land
+- offboard_rl
 px4_msgs
 read_rpy
 Getting Started
-git clone https://github.com/PaoloPassaro/RL2025HW3.git
+git clone https://github.com/Ald0oo/RL_2025_HOMEWORK_3
 colcon build 
 source install/setup.bash
 Usage
