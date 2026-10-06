@@ -1,10 +1,9 @@
 # RL_2025_HOMEWORK_3
 
-## Available Packages in this Repository
+## Available Packages in this Repository for PX4_Autopilot
 * `PX4-Autopilot`
 * `force_land`
 * `offboard_rl`
-* `px4_msgs`
 * `read_rpy`
 
 ## Getting Started
