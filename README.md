@@ -18,12 +18,12 @@ Build
 Clone this package into the src folder of your ROS 2 workspace
 now move these files in the right folders :
 
-aerial_robotics folder in your src folder of your ROS 2.
-my_quadrotor folder in PX4-Autopilot/Tools/simulation/gz/models
-1009_gz_custom_quad file in PX4-Autopilot/ROMFS/px4fmu_common/init.d-posix/airframes
-Replace CMakeLists.txt file in PX4-Autopilot/ROMFS/px4fmu_common/init.d-posix/airframes and dds_topics.yaml file in PX4-Autopilot/src/modules/uxrce_dds_client with the corrisponding files obtained with git clone
-Clone this package in the src folder of your ROS 2 workspace.
-Build and source the setup files.
+* aerial_robotics folder in your src folder of your ROS 2.
+* my_quadrotor folder in PX4-Autopilot/Tools/simulation/gz/models
+* 1009_gz_custom_quad file in PX4-Autopilot/ROMFS/px4fmu_common/init.d-posix/airframes
+* Replace CMakeLists.txt file in PX4-Autopilot/ROMFS/px4fmu_common/init.d-posix/airframes and dds_topics.yaml file in PX4-Autopilot/src/modules/uxrce_dds_client with the corrisponding files obtained with git clone
+* Clone this package in the src folder of your ROS 2 workspace.
+* Build and source the setup files.
 
 # HOW TO LAUNCH
 Terminal 1: PX4 SITL.Launch the drone in Gazebo. First, navigate to the dedicated PX4-Autopilot folder.
