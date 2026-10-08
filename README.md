@@ -31,7 +31,7 @@ Terminal 1: PX4 SITL.Launch the drone in Gazebo. First, navigate to the dedicate
 Ensure QGroundControl is kept open.
 cd src/PX4-Autopilot/
 ```bash
-make px4_sitl gz_my_quadrotor
+make px4_sitl gz_custom_quad
 ```
 ## 2. Force land
 After launching your px4 environment, in another terminal, run:
