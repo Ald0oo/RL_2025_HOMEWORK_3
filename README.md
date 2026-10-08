@@ -45,6 +45,6 @@ To implement an altitude safety check
 After launching your px4 environment, in another terminal, run:
 
 ```bash 
-ros2 run offboard_rl trajectory_planner
+ros2 run offboard_rl go_to_point
 ```
 To allow the drone to follow a pre-configured trajectory
